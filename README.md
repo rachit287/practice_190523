@@ -1,2 +1,4 @@
-# practice_190523
-Practicing Git commands. 
+## Practicing Git commands.
+* Git commmands.
+* Markdown
+* Playing around.
